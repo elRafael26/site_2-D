@@ -1,4 +1,7 @@
-
+{
+    margin: 0;
+    padding: 0;
+}
 .cabecalho {
     background-color: #fd3946;
     color: rgb(6, 6, 6);
@@ -28,11 +31,8 @@
     padding: 24px
 }
 .escola-texto-dois{
-    font-size: 24px;
+    font-size: 30px;
 }  
 .bode {
     background-image: linear-gradient(#fd3946,#df7e8e);
-}
-.escola-texto-três {
-    font-size: 24px;
 }
