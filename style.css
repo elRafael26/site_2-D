@@ -10,6 +10,7 @@
    padding: 24px 0;
 }
 .cabecalho-lista-item{
+    background-image: linear-gradient(#fd3946,#df7e8e);
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
