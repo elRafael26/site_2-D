@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -10,31 +10,25 @@
    padding: 24px 0;
 }
 .cabecalho-lista-item{
-    background-image: linear-gradient(#fd3946,#df7e8e);
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
 }
-.escola-figura{
-    width: 65%;
+.escola-imagem{
+    width: 25%;
 }
 .escola{
+    background-image: linear-gradient(#fd3946,#df7e8e);
     color: white;
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 34px 0;
+    padding: 24px 0;
 }
 .escola-div-conteudo{
     width: 35%;
+    background-image: url(https://i0.wp.com/files.agro20.com.br/uploads/2019/08/pimenta-biquinho-2.jpg?fit=1024%2C576&ssl=1);
 }
 .escola-titulo{
-    padding: 24px
-}
-.escola-texto-dois{
-    font-size: 30px;
-}  
-.escola-texto-dois {
-    background-image: linear-gradient(#fd3946,#df7e8e);
-
-}
+    padding: 24px 0;
+} 
