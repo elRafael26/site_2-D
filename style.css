@@ -38,3 +38,10 @@
 .pimentaimagem{
     font-size: 30px;
 }
+.cabecalho-dois{
+    background-color: #f00404 ;
+    color: rgb(6, 6, 6);
+    display: flex;
+   justify-content: space-around;
+   padding: 24px 0;
+}
