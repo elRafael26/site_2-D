@@ -35,16 +35,6 @@
 .pimentaimagem{
     width: 65%;
 }
-.pimentaimagem{
-    font-size: 30px;
-}
-.cabecalho{
-    background-color: #f00404 ;
-    color: rgb(6, 6, 6);
-    display: flex;
-   justify-content: space-around;
-   padding: 24px 0;
-}
 .pimentaimagem-dois{
     font-size: 30px;}
 .cabecalho-dois{
@@ -53,4 +43,7 @@
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
+}
+.pimentaimagem-dois{
+    width: 65%;
 }
