@@ -45,3 +45,12 @@
    justify-content: space-around;
    padding: 24px 0;
 }
+.pimentaimagem-dois{
+    font-size: 30px;}
+.cabecalho-dois{
+    background-color: #b10000 ;
+    color: rgb(6, 6, 6);
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
