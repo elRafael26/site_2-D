@@ -36,12 +36,13 @@
     width: 65%;
 }
 .pimentaimagem-dois{
-    font-size: 30px;}
+ padding: 24px;
+}
 .cabecalho-dois{
-    background-color: #b10000 ;
-    color: rgb(6, 6, 6);
+    background-color: #f00404;
+    color: rgb(0, 0, 0);
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     padding: 24px 0;
 }
 .pimentaimagem-dois{
